@@ -20,6 +20,9 @@
   <a href="mailto:gaurav7deshmukh@gmail.com">
     <img align="left" alt="Gaurav Deshmukh | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+   <a href="https://www.linkedin.com/in/gaurav-deshmukh-3191471b1/">
+    <img align="left" alt="Gaurav Deshmukh | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
 
 <br><br><br><br>
 
