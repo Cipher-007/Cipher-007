@@ -1,13 +1,13 @@
-# Gaurav Deshmukh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> Hi There!  
-
+# Hi there, I'm Gaurav!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 <p>
-  <em>
+
  I am a 2nd Year undergraduate IT student at <b>DY Patil College of Engineering </b>, Akurdi, Pune</a>. <br>  
   
 
 [![Gaurav Deshmukh's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-007)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
