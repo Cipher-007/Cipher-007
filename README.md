@@ -26,5 +26,4 @@
 
 <br><br><br><br>
 
-<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)  
-And Hasaber8 -->
+<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)  -->
