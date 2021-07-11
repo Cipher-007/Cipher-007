@@ -14,7 +14,7 @@
   <a href="https://twitter.com/cipher__07">
     <img align="left" alt="Gaurav Deshmukh | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/cipher__07/">
+  <a href="https://www.instagram.com/_cipher__07/">
     <img align="left" alt="Gaurav Deshmukh | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:gaurav7deshmukh@gmail.com">
