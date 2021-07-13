@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Gaurav's github page views](https://komarev.com/ghpvc/?username=Cipher-007)
 <br>
 
   <a href="https://twitter.com/cipher__07">
